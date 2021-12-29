@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in Please</a>.</p>
   </div>
 
-   <h1> Thank you!!, Happy Learning Madafacara!!! </h1>
+   <h1> Thank you!!, Happy Learning Madafacars MTF!!! </h1>
 
   
 </form>
