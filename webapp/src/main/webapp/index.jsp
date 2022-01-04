@@ -28,10 +28,10 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in Please</a>.</p>
+    <p>Already have an account madafaca? <a href="#">Sign in Please</a>.</p>
   </div>
 
-   <h1> Thanks a Million!!, Happy Learning Im the master!!! </h1>
+   <h1> Thanks a Million!!, Happy Learning I'm the master!!! </h1>
 
   
 </form>
